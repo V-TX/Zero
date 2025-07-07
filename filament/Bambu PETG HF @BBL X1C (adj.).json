@@ -1,0 +1,21 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "Bambu PETG HF @BBL X1C (adj.)"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG HF @BBL X1C",
+    "name": "Bambu PETG HF @BBL X1C (adj.)",
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "2.1.0.15"
+}

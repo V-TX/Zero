@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "Generic TPU-temp corrected"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU",
+    "is_custom_defined": "0",
+    "name": "Generic TPU-temp corrected",
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "1.10.0.36"
+}
